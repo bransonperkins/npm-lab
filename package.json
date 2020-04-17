@@ -3,9 +3,7 @@
   "version": "1.0.2",
   "description": "test env",
   "main": "test.js",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "test.js"
