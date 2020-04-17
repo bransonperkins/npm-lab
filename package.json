@@ -1,0 +1,28 @@
+{
+  "name": "@perkinsbt/learn-npm",
+  "version": "1.0.2",
+  "description": "test env",
+  "main": "test.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bransonperkins/npm-lab.git"
+  },
+  "keywords": [
+    "test",
+    "yes",
+    "ok"
+  ],
+  "author": "Branson Perkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bransonperkins/npm-lab/issues"
+  },
+  "homepage": "https://github.com/bransonperkins/npm-lab#readme"
+}
